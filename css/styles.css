@@ -7488,7 +7488,7 @@ textarea.form-control-lg {
 }
 
 .bg-calculator {
-  background: linear-gradient(90deg, rgba(255, 255, 255, 0.1) 0%, rgba(255, 255, 255, 0.1) 100%), url("../assets/img/header.jpg");
+  background: linear-gradient(90deg, rgba(255, 255, 255, 0.1) 0%, rgba(255, 255, 255, 0.1) 100%), url("../assets/img/calculator.png");
 }
 
 .bg-mutualfunds {
