@@ -3169,24 +3169,24 @@ textarea.form-control-lg {
 
 .btn-dsc {
   color: #fff;
-  background-color: #75D820;
+  background-color: #FFA500;
   border-color: #2F1D03;
 }
 .btn-dsc:hover {
   color: #fff;
   background-color: #2F1D03;
-  border-color: #75D820;
+  border-color: #FFA500;
 }
 
 .btn-pancard {
   color: #fff;
-  background-color: #75D826;
+  background-color: #808000;
   border-color: #2F1D03;
 }
 .btn-pancard:hover {
   color: #fff;
   background-color: #2F1D03;
-  border-color: #75D826;
+  border-color: #808000;
 }
 
 
