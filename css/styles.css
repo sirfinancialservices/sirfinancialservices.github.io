@@ -3167,6 +3167,29 @@ textarea.form-control-lg {
   border-color: #72750A;
 }
 
+.btn-dsc {
+  color: #fff;
+  background-color: #75D820;
+  border-color: #2F1D03;
+}
+.btn-dsc:hover {
+  color: #fff;
+  background-color: #2F1D03;
+  border-color: #75D820;
+}
+
+.btn-pancard {
+  color: #fff;
+  background-color: #75D826;
+  border-color: #2F1D03;
+}
+.btn-pancard:hover {
+  color: #fff;
+  background-color: #2F1D03;
+  border-color: #75D826;
+}
+
+
 .btn-check:focus + .btn-danger, .btn-danger:focus {
   color: #fff;
   background-color: #bb2d3b;
